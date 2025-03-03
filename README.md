@@ -15,4 +15,14 @@ In Session 3, we delve deeper into using SQL queries for filtering, sorting, dat
 ## **Session 4: Sub-Query and CTE**
 In Session 4, we explore the use of Sub-Query and Common Table Expressions (CTE) to enhance SQL queries. This material will help you understand how to break down complex queries, improve readability, and optimize data retrieval by using nested queries and temporary result sets efficiently. 
 
-## ** **
+## **Session 5: Advanced SQL Concepts and Data Operations**
+In Session 5, we expand our understanding of SQL by covering advanced topics, including:
+
+Using PREFIX in SQL Queries to improve query readability and organization.
+Deep Dive into JOIN Operations (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN) for combining data from multiple tables.
+Entity Relationship Diagram (ERD) for effective database modeling and structuring relationships between tables.
+Comprehensive Data Operations, including:
+Numerical Operations (addition, subtraction, multiplication, division, etc.).
+Mathematical Functions (sqrt, pow, ceil, floor, etc.).
+Date Operations (date conversion, time differences, extracting year/month/day, etc.).
+This session provides hands-on examples, queries, and diagrams to reinforce key database concepts and improve SQL proficiency.
