@@ -11,3 +11,8 @@ In Session 2, we learn the basics of SQL (Structured Query Language), the langua
 
 ## **Session 3: Query WHERE, SORT, Aggregation, and HAVING**
 In Session 3, we delve deeper into using SQL queries for filtering, sorting, data aggregation, and filtering aggregation results. This material will help you understand how to retrieve and analyze data more effectively using more complex SQL commands.
+
+## **Session 4: Sub-Query and CTE**
+In Session 4, we explore the use of Sub-Query and Common Table Expressions (CTE) to enhance SQL queries. This material will help you understand how to break down complex queries, improve readability, and optimize data retrieval by using nested queries and temporary result sets efficiently. 
+
+## ** **
