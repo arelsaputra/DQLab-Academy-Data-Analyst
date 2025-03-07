@@ -27,6 +27,6 @@ Mathematical Functions (sqrt, pow, ceil, floor, etc.).
 Date Operations (date conversion, time differences, extracting year/month/day, etc.).
 This session provides hands-on examples, queries, and diagrams to reinforce key database concepts and improve SQL proficiency.
 
-## **Session 5: Introduction to Python, Basic Concepts of Algorithms and Programming, and Pseudocode**
-In this session, we will learn the basics of Python, including syntax, data structures, and basic operations that are often used in programming. Next, we will understand the concept of algorithms and programming, how to organize logical steps to solve a problem systematically.
+## **Session :6 Introduction to Python, Basic Concepts of Algorithms and Programming, and Pseudocode**
+In this session 6, we will learn the basics of Python, including syntax, data structures, and basic operations that are often used in programming. Next, we will understand the concept of algorithms and programming, how to organize logical steps to solve a problem systematically.
 In addition, we will also get to know pseudocode, which is a way to write algorithms in a form that is easier to understand before being implemented in a programming language. By understanding these three materials, participants will have a strong foundation for writing code in a more structured and efficient way.
